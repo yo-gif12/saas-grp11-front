@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/saas-grp11-front/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/saas-grp11-front/static/js/main.960d019b.chunk.js",
+    "main.js.map": "/saas-grp11-front/static/js/main.960d019b.chunk.js.map",
+    "runtime-main.js": "/saas-grp11-front/static/js/runtime-main.60f09e6c.js",
+    "runtime-main.js.map": "/saas-grp11-front/static/js/runtime-main.60f09e6c.js.map",
+    "static/js/2.6eb5aeb7.chunk.js": "/saas-grp11-front/static/js/2.6eb5aeb7.chunk.js",
+    "static/js/2.6eb5aeb7.chunk.js.map": "/saas-grp11-front/static/js/2.6eb5aeb7.chunk.js.map",
+    "static/js/3.88d20858.chunk.js": "/saas-grp11-front/static/js/3.88d20858.chunk.js",
+    "static/js/3.88d20858.chunk.js.map": "/saas-grp11-front/static/js/3.88d20858.chunk.js.map",
+    "index.html": "/saas-grp11-front/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/saas-grp11-front/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.6eb5aeb7.chunk.js.LICENSE.txt": "/saas-grp11-front/static/js/2.6eb5aeb7.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/saas-grp11-front/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60f09e6c.js",
+    "static/js/2.6eb5aeb7.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.960d019b.chunk.js"
+  ]
+}
